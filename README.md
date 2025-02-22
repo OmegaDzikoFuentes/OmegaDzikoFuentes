@@ -1,4 +1,5 @@
-## Hi there 👋
+## I am a Junior Software Developer
+JavaScript HTML CSS Git Express Sequelize Node.js Chai Mocha React Redux Vite Python Jinja SQLAlchemy Alembic Flask pyenv Pipenv
 
 <!--
 **OmegaDzikoFuentes/OmegaDzikoFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
