@@ -1,16 +1,23 @@
-## I am a Junior Software Developer
+# 👋 Hello, I'm Omega Dziko Fuentes
+## 🚀 Junior Software Developer  
 
-<!--
-**OmegaDzikoFuentes/OmegaDzikoFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I love building scalable web applications, crafting efficient backend services, and exploring new technologies.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack & Skills  
+🖥 **Frontend:** HTML, CSS, JavaScript, React, Redux, Vite  
+⚙ **Backend:** Node.js, Express, Flask  
+💾 **Databases & ORMs:** SQL, Sequelize, SQLAlchemy, Alembic  
+🛠 **Testing:** Chai, Mocha  
+📦 **Package Management:** pyenv, Pipenv  
+🛠 **Version Control & Tools:** Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about JavaScript HTML CSS Git Express Sequelize Node.js Chai Mocha React Redux Vite Python Jinja SQLAlchemy Alembic Flask pyenv Pipenv
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- AWS for file storage  
+- React Native for mobile development  
+
+### 📫 Connect with Me  
+Feel free to reach out for collaboration or discussions about web development!  
+
+---
+
+📌 _This is a ✨ special ✨ repository because its `README.md` file appears on my GitHub profile._
