@@ -20,4 +20,4 @@ Feel free to reach out for collaboration or discussions about web development!
 
 ---
 
-📌 _This is a ✨ special ✨ repository because its `README.md` file appears on my GitHub profile._
+
