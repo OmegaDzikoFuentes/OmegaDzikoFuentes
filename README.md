@@ -1,9 +1,9 @@
 # Hello, I'm Omega Dziko Fuentes
 ## Junior Software Developer  
 
-Welcome to my GitHub profile! I love building scalable web applications, crafting efficient backend services, and exploring new technologies.  
+I love building scalable web applications, crafting efficient backend services, and exploring new technologies.  
 
-### 🔧 Favorite Tech Skill 
+### 🔧 Favorite Tech Skills
 🖥 **Frontend:** HTML, CSS, JavaScript, React, Redux, Vite  
 ⚙ **Backend:** Node.js, Express, Flask  
 💾 **Databases & ORMs:** SQL, Sequelize, SQLAlchemy, Alembic  
